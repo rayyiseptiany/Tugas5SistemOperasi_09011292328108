@@ -2,6 +2,7 @@
 
 ### 1. Melihat daftar secara lengkap pada direktori aktif, belokkan tampilan output standar ke file baru
 ![so1](https://github.com/user-attachments/assets/0d62f614-81e7-412a-8979-0b89d743676e)
+![file baru](https://github.com/user-attachments/assets/a40a3054-b02f-4ec5-a6a0-053cf129126c)
 ### Perintah ls -l digunakan untuk menunjukkan daftar file dan direktori. Dengan menggunakan simbol >, output dapat dialihkan ke file baru yang dinamakan daftar_direktori.txt. Dengan demikian, daftar file dan direktori dari lokasi aktif akan disimpan dalam file tersebut.
 
 ### 2. Lihat daftar secara lengkap pada direktori /etc/paswd, belokkan tampilan standard output ke file baru tanpa menghapus file baru sebelumnya.
@@ -10,6 +11,7 @@
 
 ### 3. Urutkan file baru dengan cara membelokkan standard input.
 ![so3](https://github.com/user-attachments/assets/40b005e1-a0a4-4917-8a99-39eeccbf7771)
+![file urut](https://github.com/user-attachments/assets/f516719e-a5dc-4fd6-a22b-4ef3968a679e)
 ### Perintah `sort` berfungsi untuk mengurutkan konten dari sebuah file. Simbol `<` digunakan untuk mengarahkan file `daftar_direktori.txt` sebagai input bagi perintah `sort`.
 
 ### 4. Urutkan file baru dengan cara membelokkan standard input dan standard output ke file baru.urut.
